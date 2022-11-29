@@ -1,0 +1,15 @@
+D:\College\3rdYear\1stSem\C2\CS313\repo\PDAProgramming\PDAProgramming\bin\Debug\net6.0\PDAProgramming.exe
+D:\College\3rdYear\1stSem\C2\CS313\repo\PDAProgramming\PDAProgramming\bin\Debug\net6.0\PDAProgramming.deps.json
+D:\College\3rdYear\1stSem\C2\CS313\repo\PDAProgramming\PDAProgramming\bin\Debug\net6.0\PDAProgramming.runtimeconfig.json
+D:\College\3rdYear\1stSem\C2\CS313\repo\PDAProgramming\PDAProgramming\bin\Debug\net6.0\PDAProgramming.dll
+D:\College\3rdYear\1stSem\C2\CS313\repo\PDAProgramming\PDAProgramming\bin\Debug\net6.0\PDAProgramming.pdb
+D:\College\3rdYear\1stSem\C2\CS313\repo\PDAProgramming\PDAProgramming\obj\Debug\net6.0\PDAProgramming.csproj.AssemblyReference.cache
+D:\College\3rdYear\1stSem\C2\CS313\repo\PDAProgramming\PDAProgramming\obj\Debug\net6.0\PDAProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\3rdYear\1stSem\C2\CS313\repo\PDAProgramming\PDAProgramming\obj\Debug\net6.0\PDAProgramming.AssemblyInfoInputs.cache
+D:\College\3rdYear\1stSem\C2\CS313\repo\PDAProgramming\PDAProgramming\obj\Debug\net6.0\PDAProgramming.AssemblyInfo.cs
+D:\College\3rdYear\1stSem\C2\CS313\repo\PDAProgramming\PDAProgramming\obj\Debug\net6.0\PDAProgramming.csproj.CoreCompileInputs.cache
+D:\College\3rdYear\1stSem\C2\CS313\repo\PDAProgramming\PDAProgramming\obj\Debug\net6.0\PDAProgramming.dll
+D:\College\3rdYear\1stSem\C2\CS313\repo\PDAProgramming\PDAProgramming\obj\Debug\net6.0\refint\PDAProgramming.dll
+D:\College\3rdYear\1stSem\C2\CS313\repo\PDAProgramming\PDAProgramming\obj\Debug\net6.0\PDAProgramming.pdb
+D:\College\3rdYear\1stSem\C2\CS313\repo\PDAProgramming\PDAProgramming\obj\Debug\net6.0\PDAProgramming.genruntimeconfig.cache
+D:\College\3rdYear\1stSem\C2\CS313\repo\PDAProgramming\PDAProgramming\obj\Debug\net6.0\ref\PDAProgramming.dll

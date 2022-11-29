@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDAProgramming", "PDAProgramming\PDAProgramming.csproj", "{9B5CDAC0-CE5D-4F52-B624-FF514DE0BDAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B5CDAC0-CE5D-4F52-B624-FF514DE0BDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5CDAC0-CE5D-4F52-B624-FF514DE0BDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5CDAC0-CE5D-4F52-B624-FF514DE0BDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5CDAC0-CE5D-4F52-B624-FF514DE0BDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89562068-F09E-4C01-A4CE-DD5C00E9ABD8}
+	EndGlobalSection
+EndGlobal
